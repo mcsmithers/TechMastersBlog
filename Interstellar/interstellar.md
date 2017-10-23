@@ -1,0 +1,39 @@
+### **The Launch from NASA: To Interstellar Space**
+
+<figure>Voyager 1 spacecraft, Courtesy of NASA</figure>
+
+The famous Voyager 1 mission was constructed to not only operate within our home solar system, but far beyond it and into the unexplored. When Voyager 1 is unable to communicate with the NASA Jet Propulsion Laboratory on Earth, the messages get saved in a tape recorder. Voyager 1 can record about 64 kilobytes of data for transmission at another time. Signals take over 19 hours to reach Earth. The craft flies powered by plutonium. The power output of for the craft will continue to support some of its operations until 2025\. Voyager 1 has a camera controlled by an onboard computer-managed image processing system. Instead of a camera operating independently such as those of the 1990s and later, the camera works a lot like an MRI. Filters interpret light patterns and colorize based off where light falls on the spectrum. There are more parts to Voyager 1 such as a specialized telescope to gather atmospheric data on Jupiter and Saturn. All of the parts operate on 69.63 kilobytes (kb) of memory. To put that amount of memory into perspective, 69.63 kb is less than a floppy disc or music tape from the 1980s. Voyager 1 accomplishes its tasks using less memory than the amount of space of a picture takes up from the mobile device you could be reading this with. On August 25, 2012, Voyager 1 entered a place we have never journeyed to, interstellar space. It is beyond the control of our sun. The interstellar matter will be studied until the mission’s end in 2025 when it is out of power.
+
+NASA explores new technology, but older technology is often present because it works and is stable. As programmers and developers, we benefit when we expand our knowledge. We are challenged to try new things because stable things might not be the solution we need. I delved into how Amazon Web Services (AWS) powers our data for various projects. We programmed in Python to process software and automate. Java runs project management software so that we can visit Europa around 2020\. Perhaps we will find out if there is life present after about 10 years of melting through the thick ice that is several kilometers thick. My work at the Jet Propulsion Lab has taught me not only new technology and programming, but also other valuable assets.
+
+Busy engineers write code that will command the security to protect the upcoming Europa Clipper mission, yet they have insufficient time to document their work as thoroughly as they would like. The power of excellent documentation in technology is what allows us to learn new things. It also promotes progress in your endeavors.
+
+Another lesson learned was the traits of professional wisdom. Everyone hears about communication being important in business and professional relationships. What we often do not hear is how to do it effectively. Computers receive our instructions and process them. Humans minds contrast this since we receive electrical signals and more. One individual person can be an excellent software engineer, but professional presence weighs heavily too. We as a species have a brain that works with spoken and written instructions in addition to non-verbal cues. We need input so we can solve problems. I have gained great insight on feedback from TechMasters. I learned that to best way to give and receive professional assessment is follow the Six Principles of Being which entail the habits of:
+
+*   Humbleness
+
+*   Helpfulness
+
+*   Immediate action
+
+*   In-person discussion (if constructive criticism)
+
+*   Public recognition (if praise)
+
+*   Personally caring
+
+There were several times that I witnessed several cases as to how effective the principles are to one’s performance. I also observed examples where a lack of it leads to doubt, defensiveness, and obstacles blocking what would have otherwise been an opportunity. Being accountable for one’s actions is significant. Five minutes of a stand-up accomplish more than asking for advice randomly when you get stuck. Regular, brief check-ins give you a chance to “take the temperature” of how you are doing and correct issues as they arise. In addition, a report was emailed each week detailing what was accomplished on the CAR method:
+
+*   Challenge: What are you trying to solve?
+
+*   Actions: What have you done?
+
+*   Result : Results of your actions; what excelled, what can improve, etc.
+
+Strategies promoting regular interactions give everyone a summary of how goals are being met. As a junior developer, clear communication is crucial to success and integration in the workplace. Reading an email or chat message is not the same as talking directly to someone. When you choose well-formed questions and go through them together at your check-ins, you will get further than asking “hallway questions”. Another significant quality is compassion. When we practice compassion in our professional interactions, especially when it comes to performance responses, we work better together. Transparency is a part of compassion because it fosters trust. I seek to improve myself based on the these insights so I can mentor others in the future. Professional wisdom comes with each new experience. The ten weeks of the internship flew by quickly.
+
+My time in the internship has passed, and now I am in “interstellar space” in my professional life. I have spent a brief time stage at the Jet Propulsion Lab as Voyager 1 did years ago. Voyager 1 and I are both starting a new phase away from our old place. New frontiers are about to be encountered. Past research suggests that 2.5 petabytes (or a million gigabytes) of information is held in the human brain. One can only imagine what we could do if we could utilize that amount of memory in our space shuttles if given the chance and funding. We have many new things to encounter as technology improves. Big data, supercomputers, and more talented engineers are a few aspects that we are evolving into. My journey forward will be one of hope, determination, and desire to continue learning. The TechMasters have supported me to make this voyage and continue to stand with me as this new, interstellar space opens up.
+
+<figure>Pale Blue Dot (Earth) from the edge of the Solar System, Courtesy of NASA</figure>
+
+_Special thank you to Ahmad Nassri, Andrew Moore, and Enrico Saccheti and all the TechMasters who have provided assistance, mentorship, and encouragement for me to participate in the internship. This was possible because of you. I propel myself onward as a result of what you have given._
